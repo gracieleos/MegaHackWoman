@@ -31,7 +31,7 @@ O nosso **diferencial** é a utilização de chatbot e gamificação para engaja
 
 
 ### Protótipo
-![ScreenShot](https://github.com/camilamelo14/MegaHackWoman/blob/master/docs/fluxo_app.png)
+![ScreenShot](https://github.com/camilamelo14/MegaHackWoman/blob/master/docs/fluxo_app)
 
 [Acesse aqui o protótipo do App](https://www.figma.com/proto/vdZwTu7pxs9spSMeCp2M8e/Megahack?node-id=8%3A1&scaling=scale-down)
 
